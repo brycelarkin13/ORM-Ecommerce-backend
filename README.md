@@ -7,6 +7,9 @@
 
 
   ![Product and Tag demo](https://user-images.githubusercontent.com/84687238/169133919-f6756e3f-df86-4a4e-9a3f-8359f41ff4af.gif)
+  
+  ![Category_demo](https://user-images.githubusercontent.com/84687238/169137478-7cc37751-bc86-447b-afb7-f647b09c7a3c.gif)
+
 
   ## Table of Contents
   * [Installation](#installation)
